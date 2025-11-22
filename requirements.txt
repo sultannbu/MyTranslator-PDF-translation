@@ -1,0 +1,10 @@
+pillow
+pytesseract
+requests
+openai
+deep_translator
+bidi
+arabic_reshaper
+tkinter
+import customtkinter as ctk
+customtkinter
