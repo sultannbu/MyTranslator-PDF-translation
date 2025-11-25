@@ -17,6 +17,9 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 ## تثبيت المكتبات
 قم بهذا الأمر لتثبيت المكتبات المطلوبه
+```
+pip install -r requirements.txt
+```
 
 
 
