@@ -1,5 +1,9 @@
 # ما هو برنامج مترجمي؟
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyPI - pytesseract](https://img.shields.io/pypi/v/pytesseract.svg)
+![openai](https://img.shields.io/pypi/v/openai)
+![Pillow](https://img.shields.io/pypi/v/Pillow)
+![customtkinter](https://img.shields.io/badge/customtkinter-installed-success)
 
 
 
