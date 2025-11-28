@@ -10,7 +10,7 @@ import tkinter as tk
 import arabic_reshaper
 from bidi.algorithm import get_display
 from PIL import Image,ImageDraw
-
+import translte
 
 class main(): 
     global data

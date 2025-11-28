@@ -180,7 +180,7 @@ def main():
                     
                     
                 font = ImageFont.truetype("arial.ttf",good_size)
-                print("good size" +str(good_size))
+              #  print("good size" +str(good_size))
                 status_block = 0
                 if (MAX_Y< 120):
 
@@ -214,7 +214,7 @@ def main():
                             text_arabic= "".join(text.split())
                             length_text = font.getlength(text_arabic) 
                             if coor <= (MIN_X+(length_text)):
-                                print(" tm t3de 7dod")
+                        #        print(" tm t3de 7dod")
                                 coor_top = (coor_top + MAX_H + MIN_H)
                                 coor = MAX_X-length_text
                                 length_text_last = length_text
@@ -332,17 +332,17 @@ def get_good_size_text(text_arabic,block,again = False):
 
     
     for _ in range(30):
-        print(_)
+      #  print(_)
         coor_top=block["MIN_Y"]
         coor = block["MAX_X"]
 
-        print(f"""
-          start size {size}
-         start min {block["MIN_Y"]}
-         start max {block["MAX_Y"]}
-         start coor {coor}
-         start top {coor_top}
-         """)
+      #  print(f"""
+       #   start size {size}
+       #  start min {block["MIN_Y"]}
+       #  start max {block["MAX_Y"]}
+        # start coor {coor}
+        # start top {coor_top}
+        # """)
 
         
         for text in text_arabic.split(" "):
@@ -353,7 +353,7 @@ def get_good_size_text(text_arabic,block,again = False):
 
             if coor <= (block["MIN_X"]+(length_text)):
                 
-                print(" tm t3de 7dod")
+       #         print(" tm t3de 7dod")
                 coor_top = ((coor_top + block["MAX_H"]) + block["MIN_H"])
                 coor = block["MAX_X"]-length_text
                 length_text_last=length_text
@@ -366,9 +366,9 @@ def get_good_size_text(text_arabic,block,again = False):
             size = size - (size/10)
         else:
             break
-    print(f"""
-         end size {size}
-         end coor_top {coor_top}""")
+  #  print(f"""
+  #       end size {size}
+   #      end coor_top {coor_top}""")
 
     return size
 
