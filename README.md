@@ -1,3 +1,10 @@
+# رابط تحميل البرنامج للويندوز
+
+[⬇️ تحميل البرنامج (ZIP)](https://drive.google.com/your-file-link)
+
+**ملاحظة مهمة:**  
+إذا لم يعمل البرنامج بعد التحميل على ويندوز، قم بنقل المجلد إلى قرص C في مجلد باسم إنجليزي (مثل: C:\MyProgram).  
+سبب ذلك هو أن البرنامج لا يدعم المسارات التي تحتوي على أحرف عربية.
 # ما هو برنامج مترجمي؟
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![pytesseract](https://img.shields.io/pypi/v/pytesseract.svg)
