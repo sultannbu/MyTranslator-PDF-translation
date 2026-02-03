@@ -1,6 +1,6 @@
 # رابط تحميل البرنامج للويندوز
 
-[⬇️ تحميل البرنامج (ZIP) اضغط هنا](https://drive.google.com/your-file-link)
+[⬇️ تحميل البرنامج (ZIP) اضغط هنا](https://drive.usercontent.google.com/download?id=19Gagu9PFfp6ubefETphzpWfOM49vB7hQ&export=download&authuser=7&confirm=t&uuid=c543ddf3-2359-4d22-b553-4eee80104ad5&at=APcXIO2ltHA1KPZ7m4mxEw5U2_a4:1770138083106)
 
 **ملاحظة مهمة:**  
 إذا لم يعمل البرنامج بعد التحميل على ويندوز، قم بنقل المجلد إلى قرص C 
