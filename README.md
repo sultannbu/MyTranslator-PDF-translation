@@ -22,9 +22,9 @@
 <img src="example/3.jpg" width="1000px"/>
 <img src="example/4.jpg" width="1000px"/>
 
-## التحميل
+## التحميل للمطورين
 بعد تحميل البرنامج انت بحاجة الى تثبيت Tesseract( محرك مكتشف النصوص )
-حمله من الرابط التالي وضعه في مجلد البرنامج.
+حمله من الرابط التالي ومن ثم ادخل وخذ مجلد  tesseract وضعه في مجلد البرنامج.
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
